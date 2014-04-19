@@ -23,13 +23,14 @@ Additionally, each line item should have a comment indicating the work done and 
 
 All invoices are paid net 30.
 
-
-### Trust and Respect* 
+###Getting in the groove (read this or you'll be sorry)
+adapted from http://nearshore-factory.eu/2014/04/maintaining-agile-values-in-a-remote-team/
+>### Trust and Respect* 
 Building trust and respect in a remote setup is more difficult than in a co-located context because the communication channels are of a lower quality (audio/video/text vs. face-to-face conversation).
 While trust and respect is re-enforced by extensive use of IM, email, web conference tools etc. we find the  basics of team respect come from the abilities of the remote team members themselves (both in communication skills and technical skills). All team members are responsible for their own level of respect in the team, and any member that is not earning the respect of the team needs to be evaluated and removed if they are not able to “pull it together”.
 What we do is a craft and craftspeople like to work with other craftspeople that are good...
 
-### Communication
+>### Communication
 We believe a well performing team has excellent communication skills. With effective communication you create opportunities for learning from others. You can find out almost in real-time if the information is or isn’t available within the team. That way you can make informed decisions.
 Asynchronous communications channels are best, such as a persistent group chat. This can also improve information transfer within the team. The communicated facts are persisted and searchable at a later time. It also does not interrupt others.
 Commitment
@@ -37,9 +38,7 @@ Making and keeping commitments is just as important in a remote context. Without
 In a remote context it is more difficult to have the same visibility within the team, because you can’t see what others are doing. That’s why each team member needs to be self-driven and responsible. They should not wait to be told what to do, and they should take initiative when needed. To improve the visibility, remote pair programming can help.
 ### Courage
 To improve yourself and the quality of your work you need courage to make the changes needed. In a remote context it’s sometimes difficult to visualise some problems. Another issue is that some changes are more difficult to make, such as changing something in a remote location. To counter this, the team needs to be empowered to make the changes it needs.
-### Feedback
+>### Feedback
 Feedback enables that almost real-time information exchanged mentioned in the communication section. In essence, it covers the communication gaps that can lead to waste and erosion of trust. In a remote context, it may be difficult to receive feedback from clients, or from other team members.
 To counter these issues, it’s important to be transparent about problems.  Instant audio/video conference should be possible between any two team members. All team members need to have access to all tools, versioning system, documents, from any location they may be working at.
-
-* adapted from "Maintaining Agile Values in a Remote Team" http://nearshore-factory.eu/2014/04/maintaining-agile-values-in-a-remote-team/
 
