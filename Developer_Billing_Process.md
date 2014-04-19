@@ -1,5 +1,5 @@
 Tricycle External Developer Billing Process (and some other stuff)
-==
+===
 ### Before your first project or task
 Before you begin working with Tricycle you will first need to fill out and submit a Contractors Agreement and W9 to be approved and entered into our vendor system (note that this is a "by invitation only" party).
 ### Getting going on a task
@@ -27,8 +27,7 @@ All invoices are paid net 30.
 adapted from http://nearshore-factory.eu/2014/04/maintaining-agile-values-in-a-remote-team/
 >### Trust and Respect* 
 Building trust and respect in a remote setup is more difficult than in a co-located context because the communication channels are of a lower quality (audio/video/text vs. face-to-face conversation).
-While trust and respect is re-enforced by extensive use of IM, email, web conference tools etc. we find the  basics of team respect come from the abilities of the remote team members themselves (both in communication skills and technical skills). All team members are responsible for their own level of respect in the team, and any member that is not earning the respect of the team needs to be evaluated and removed if they are not able to “pull it together”.
-What we do is a craft and craftspeople like to work with other craftspeople that are good...
+While trust and respect is re-enforced by extensive use of IM, email, web conference tools etc. we find the  basics of team respect come from the abilities of the remote team members themselves (both in communication skills and technical skills). All team members are responsible for their own level of respect in the team, and any member that is not earning the respect of the team needs to be evaluated and removed if they are not able to “pull it together”. _What we do is a craft and craftspeople like to work with other craftspeople that are good..._
 
 >### Communication
 We believe a well performing team has excellent communication skills. With effective communication you create opportunities for learning from others. You can find out almost in real-time if the information is or isn’t available within the team. That way you can make informed decisions.
@@ -41,4 +40,3 @@ To improve yourself and the quality of your work you need courage to make the ch
 >### Feedback
 Feedback enables that almost real-time information exchanged mentioned in the communication section. In essence, it covers the communication gaps that can lead to waste and erosion of trust. In a remote context, it may be difficult to receive feedback from clients, or from other team members.
 To counter these issues, it’s important to be transparent about problems.  Instant audio/video conference should be possible between any two team members. All team members need to have access to all tools, versioning system, documents, from any location they may be working at.
-
