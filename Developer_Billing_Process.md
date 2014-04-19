@@ -9,9 +9,9 @@ Once you understand the task that we are asking you to work on you must submit a
 ### When you are really going
 When you are fully integrated in our team you will often receive an email from one of our Project Dev Leads after Tuesday Sprint Planning with a list of tasks that we hope you will accomplish in the subsequent sprint.
 ### Rubber... road and phoning home
-Once your estimate (and timeframe) is approved you can start to work with your Project Dev Lead and move the project forward.  We expect enough communication from you to allow our team to feel comfortable that you are moving forward and can complete your task(s) on time and in budget.  Most communication will happen either in IM (#slack is our preferred IM tool), GitHub, ScreenHero (or other co-programming tool), web conference, email, or lastly phone.
+Once your estimate (and timeframe) is approved you can start to work with your Project Dev Lead and move the project forward.  We expect enough communication from you to allow our team to feel comfortable that you are moving forward and can complete your task(s) on time and in budget.  Most communication will happen either in IM ([#slack](http://www.slack.com) is our preferred IM tool), [GitHub](http://www.github.com), [ScreenHero](http://www.screenhero.com) (or other co-programming tool), web conference, email, or lastly phone.
 ### You have to test!!
-We expect you to test and QA your work (on the iPad if you are working on presentation content) and we expect that any pull requests that you submit will follow our Github branching strategy guidelines and will be fully ready for final QA.  Developers that routinely submit work that is rejected by our QA will be removed from our team.
+We expect you to test and QA your work (on the iPad if you are working on presentation content) and we expect that any pull requests that you submit will follow our [Github branching strategy guidelines](https://github.com/TricycleStudios/guides/tree/master/git) and will be fully ready for final QA.  Developers that routinely submit work that is rejected by our QA will be removed from our team.
 ### Getting paid
 After you complete your task (or on a schedule agreed upon with the PM) you can submit an invoice for the work.
 
@@ -40,3 +40,4 @@ To improve yourself and the quality of your work you need courage to make the ch
 >### Feedback
 Feedback enables that almost real-time information exchanged mentioned in the communication section. In essence, it covers the communication gaps that can lead to waste and erosion of trust. In a remote context, it may be difficult to receive feedback from clients, or from other team members.
 To counter these issues, it’s important to be transparent about problems.  Instant audio/video conference should be possible between any two team members. All team members need to have access to all tools, versioning system, documents, from any location they may be working at.
+
